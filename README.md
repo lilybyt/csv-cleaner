@@ -25,4 +25,5 @@ Input file: `sample_input.csv`
 Output file: `cleaned_output.csv`
 
 ## 👤 Author
-Mitchell Edogamhe — medical student, programmer & automation builder.
+
+Mitchell Edogamhe — medical student and developer .
